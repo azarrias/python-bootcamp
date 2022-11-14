@@ -1,4 +1,4 @@
-##!/usr/bin/env python
+#!/usr/bin/env python
 
 # Obtain the product of two integers
 num_1 = int(input('Please enter the first number: '))

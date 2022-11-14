@@ -1,4 +1,4 @@
-##!/usr/bin/env python
+#!/usr/bin/env python
 
 # Bob, Ann, Jane and Ashwin want to order pizza - they know they will each eat
 # 4 slices of pizza. The local pizza shop sells pizzas of only 6 slices
